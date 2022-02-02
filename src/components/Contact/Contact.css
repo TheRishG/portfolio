@@ -1,0 +1,8 @@
+/** @format */
+
+.contact {
+	flex-direction: column;
+}
+.btn {
+	text-transform: capitalize !important;
+}
