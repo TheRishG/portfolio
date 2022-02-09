@@ -34,7 +34,7 @@ const About = () => {
 						<GitHubIcon />
 					</a>
 					<a
-						href='https://www.linkedin.com/feed/'
+						href='https://www.linkedin.com/in/therishig/'
 						aria-label='linkedin'
 						className='link link--icon'>
 						<LinkedInIcon />
